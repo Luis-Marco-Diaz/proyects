@@ -342,7 +342,7 @@ img {
 /* ==========About========*/
 
 .about {
-  background-image: url(" /assets/img/Frame 3529.svg");
+  background-image: url("/assets/img/Frame3529.svg");
   background-size: cover;
   background-position: center;
 }  
@@ -407,7 +407,7 @@ img {
 /*========== Projects ======*/
 .projects__container {
   gap: 2rem;
-  background-image: url("/PROYECTO PORTAFOLIO/LUIS MARCO DÍAZ /assets/img/Ellipse.svg");
+  background-image: url("/assets/img/Ellipse.svg");
   background-size: cover;
   background-position: center;
 }
