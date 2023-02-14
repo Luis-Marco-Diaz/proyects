@@ -298,7 +298,7 @@ img {
   grid-template-columns: auto;
   grid-template-areas: "a";
   grid-gap: 1rem;
-  background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .5) ), url("/assets/img/lmdlbg.png");
+  background-image: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .5) ), url("assets/img/lmdlbg.png");
   position: relative;
   background-attachment: fixed;
   background-size: cover;
@@ -342,7 +342,7 @@ img {
 /* ==========About========*/
 
 .about {
-  background-image: url("/assets/img/Frame3529.svg");
+  background-image: url("assets/img/Frame 3529.svg");
   background-size: cover;
   background-position: center;
 }  
@@ -407,7 +407,7 @@ img {
 /*========== Projects ======*/
 .projects__container {
   gap: 2rem;
-  background-image: url("/assets/img/Ellipse.svg");
+  background-image: url("assets/img/Ellipse.svg");
   background-size: cover;
   background-position: center;
 }
