@@ -298,7 +298,7 @@ img {
   grid-template-columns: auto;
   grid-template-areas: "a";
   grid-gap: 1rem;
-  background-image: url('https://github.com/Luis-Marco-Diaz/proyects/blob/484e26f4ac343bfc0d84d5c1ec13a1f52b3fc223/assets/img/lmdlbg.png');
+  background-image: url('/assets/img/lmdlbg.png');
   position: relative;
   background-attachment: fixed;
   background-size: cover;
